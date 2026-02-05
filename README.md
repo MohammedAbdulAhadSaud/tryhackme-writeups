@@ -25,5 +25,18 @@ security methodology.
 - OSCP-style workflows
 
 ---
+## 📂 TryHackMe Rooms
+
+### 🟢 Easy
+- [Pickle Rick](Easy/PickleRick)
+
+### 🟡 Medium
+- [Agent Sudo](Medium/AgentSudo)
+
+### 🔴 Hard
+- Coming soon
+
+---
+
 
 ⭐ Star the repo if it helps you learn!
