@@ -18,7 +18,7 @@ exploitation, and privilege escalation.
 ---
 
 ## 🔴 HARD
-- [Robots](robots.md)  [Room Link](https://tryhackme.com/room/robots)
+- [Robots](robots.md) - [Room Link](https://tryhackme.com/room/robots)
 
 ---
 
