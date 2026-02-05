@@ -4,10 +4,12 @@ This repository contains my personal write-ups for **TryHackMe rooms**.
 The goal is to document my learning process and improve my offensive security methodology.
 
 ## 📂 Structure
-- `rooms/` – TryHackMe room write-ups (organized by room)
-- Each room contains:
-  - `index.md` – Overview
-  - Detailed exploitation notes and commands
+- `rooms/` – TryHackMe room write-ups 
+Each room is documented in a single Markdown file containing:
+- Enumeration steps
+- Exploitation methodology
+- Commands and outputs
+- Privilege escalation notes
 
 ## 🧠 Skills Covered
 - Linux & Windows fundamentals
