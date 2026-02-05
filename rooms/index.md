@@ -6,23 +6,23 @@ exploitation, and privilege escalation.
 
 ---
 
-## 🟢 EASY
+## EASY
 
 - Coming soon
 
 ---
 
-## 🟡 MEDIUM
+## MEDIUM
 - Coming soon
 
 ---
 
-## 🔴 HARD
+## HARD
 - [Robots](robots.md) - [Room Link](https://tryhackme.com/room/robots)
 
 ---
 
-## ⚫ INSANE
+## INSANE
 - Coming soon
 
 ---
